@@ -1,0 +1,18 @@
+.a{
+	float: left;
+	height: 500px;
+	margin-left: 50px;
+	font-size: 24px;
+
+}
+
+.b{
+	float: left;
+	height: 500px;
+	color: red;
+	margin-left: 110px;
+}
+
+.c {
+	margin-top: 300px;
+}
